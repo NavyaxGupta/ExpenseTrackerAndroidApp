@@ -1,2 +1,24 @@
-My java code is at app/src/main/java/com/example/myapplication.
-There you can find the java class and kotlin files
+WHAT THIS APP DOES:
+This app helps users track their expenses.
+The user can categorize their expenses into self-made categories like food, rent, gym, loans, beauty, etc.
+The system displays total expenses and their categories.
+The app also gives users the option to receive alerts if their set budget is crossed.
+
+MY JOURNEY:
+I wanted to develop a fully interactive app using my coding skills. 
+During my undergraduate classes, I wrote complex code related to data management and games. However, those applications only ran through the terminal. 
+I became curious about how I could apply that code to create a user-interactive app.
+
+Initially, I wrote the backend code for this app in Python. 
+However, when I discovered Android Studio, I decided to convert it to Java. 
+At first, I had no idea what Android Studio was, but after learning about its functionality and popularity, I made the decision to use it for my project.
+
+Throughout this process, I gained knowledge in Kotlin, XML, and Android Studio. 
+I also utilized my existing Java skills and Python to enhance those skills further.
+Overall, working with this software has increased my confidence and expanded my skill set.
+
+MY CODE:
+My Java class and Kotlin files are at app/src/main/java/com/example/myapplication.
+My XML files are at app/src/main/res/layout.
+
+
